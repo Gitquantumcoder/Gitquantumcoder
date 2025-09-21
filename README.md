@@ -27,6 +27,11 @@ I’m currently diving into the world of **web and software development** — le
 </a>
 
 ---
+My Badges->
+
+[![An image of @gitquantumcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitquantumcoder)](https://holopin.io/@gitquantumcoder)
+
+---
 
 ## 📈 My GitHub Stats
 
