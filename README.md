@@ -30,7 +30,8 @@ I’m currently diving into the world of **web and software development** — le
 My Badges->
 
 [![An image of @gitquantumcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitquantumcoder)](https://holopin.io/@gitquantumcoder)
-[![LeetCode Badge](https://leetcode-badge.vercel.app/?username=Afzalnewcoder123)](https://leetcode.com/Afzalnewcoder123/)
+![LeetCode Badge](https://leetcode-badge-api.vercel.app/?username=Afzalnewcoder123&theme=github)
+
 
 
 ---
