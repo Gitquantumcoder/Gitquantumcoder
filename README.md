@@ -37,11 +37,12 @@ My Badges->
 
 ---
 
+
 ## 📈 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitquantumcoder&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Gitquantumcoder)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitquantumcoder&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitquantumcoder&layout=compact&theme=tokyonight)](https://github.com/Gitquantumcoder)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitquantumcoder&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false)
 
 ---
 
