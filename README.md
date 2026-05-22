@@ -42,9 +42,7 @@ My Badges->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitquantumcoder&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitquantumcoder&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gitquantumcoder&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitquantumcoder&langs_count=8&theme=tokyonight&layout=donut-vertical&cache_seconds=1800)---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitquantumcoder&layout=waffle&theme=tokyonight&langs_count=8)
 
 ## 🎉 Fun Fact
 
