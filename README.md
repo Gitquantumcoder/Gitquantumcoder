@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Mohd.Afzal aka Gitquantumcoder!
+# 👋 Hi, I'm Mohd.Afzal aka Gitquantumcoder!
 
 ### 🚀 Student | Aspiring Developer | Tech Explorer
 
 Welcome to my GitHub universe!  
-I’m currently diving into the world of **web and software development** — learning, experimenting, and having fun every step of the way.
+I'm currently diving into the world of **web and software development** — learning, experimenting, and having fun every step of the way.
 
 ---
 
-## 🛠️ What I’m Learning
+## 🛠️ What I'm Learning
 - **HTML** & **CSS** — Building beautiful web pages
 - **JavaScript** — Making things interactive & dynamic
 - **Python** — Automating, analyzing, and exploring code magic
@@ -39,7 +39,9 @@ My Badges->
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitquantumcoder&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitquantumcoder&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitquantumcoder&layout=compact&theme=tokyonight)
 
 ---
 
@@ -49,4 +51,4 @@ My Badges->
 
 ---
 
-<!-- Let’s connect, collaborate, and create something awesome together! -->
+<!-- Let's connect, collaborate, and create something awesome together! -->
