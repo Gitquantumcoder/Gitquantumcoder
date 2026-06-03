@@ -33,7 +33,7 @@ My Badges->
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/afzalji2004)
-
+![HackerRank Badges](https://hackerrank-badges.vercel.app/afzalji2004)
 
 
 ---
