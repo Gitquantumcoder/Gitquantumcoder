@@ -32,6 +32,7 @@ My Badges->
 [![An image of @gitquantumcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitquantumcoder)](https://holopin.io/@gitquantumcoder)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/afzalji2004)
 
 
 
