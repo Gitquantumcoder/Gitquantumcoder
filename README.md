@@ -34,7 +34,11 @@ My Badges->
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
 ![HackerRank Badges](https://hackerrank-badges.vercel.app/afzalji2004)
 
-https://cdn.credly.com/assets/utilities/embed.js
+## Microsoft AI Skillfest Badge
+
+<a href="https://www.credly.com/badges/4acbccd3-fc5d-475e-8ab8-330c174e3e5f/public_url">
+  <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="150" alt="Credly Badge">
+</a>
 ---
 
 
