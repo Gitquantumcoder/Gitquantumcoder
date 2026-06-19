@@ -39,8 +39,6 @@ My Badges->
 <a href="https://www.credly.com/badges/4acbccd3-fc5d-475e-8ab8-330c174e3e5f/public_url">
   <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="200" alt="Credly Badge">
 </a>
----
-
 
 ## 📈 My GitHub Stats
 
