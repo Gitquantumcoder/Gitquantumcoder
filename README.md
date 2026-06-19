@@ -34,7 +34,7 @@ My Badges->
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
 ![HackerRank Badges](https://hackerrank-badges.vercel.app/afzalji2004)
 
-
+https://cdn.credly.com/assets/utilities/embed.js
 ---
 
 
