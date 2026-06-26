@@ -32,8 +32,8 @@ My Badges->
 [![An image of @gitquantumcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitquantumcoder)](https://holopin.io/@gitquantumcoder)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
-![HackerRank Badges](https://hackerrank-badges.vercel.app/afzalji2004)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/afzaldeeplearn)
+![HackerRank Badges](https://hackerrank-badges.vercel.app/afzalji2004/light)
+![Kaggle Badge](https://www.kaggleuserdisplay.com/users/afzaldeeplearn)
 
 ## Microsoft Badge-
 
