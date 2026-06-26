@@ -33,7 +33,7 @@ My Badges->
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
 ![HackerRank Badges](https://hackerrank-badges.vercel.app/afzalji2004)
-[![Afzal's Kaggle Profile](https://www.kaggle.com/static/images/profile/staticgravatar.png)](https://www.kaggle.com/afzaldeeplearn)
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9c37cceb9f493bb678dd909e988b1456%2FBadge-1.svg?generation=1727462477436270&alt=media" alt="Kaggle Badge" />
 
 ## Microsoft Badge-
 
