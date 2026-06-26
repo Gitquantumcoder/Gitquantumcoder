@@ -29,7 +29,9 @@ I'm currently diving into the world of **web and software development** — lear
 ---
 My Badges->
 
-[![An image of @gitquantumcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitquantumcoder)](https://holopin.io/@gitquantumcoder)
+<a href="https://holopin.io/@gitquantumcoder">
+  <img src="https://holopin.me/gitquantumcoder" alt="An image of @gitquantumcoder's Holopin badges" width="300"/>
+</a>
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
 ![HackerRank Badges](https://hackerrank-badges.vercel.app/afzalji2004)
