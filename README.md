@@ -30,7 +30,7 @@ I'm currently diving into the world of **web and software development** — lear
 My Badges->
 
 <a href="https://holopin.io/@gitquantumcoder">
-  <img src="https://holopin.me/gitquantumcoder" alt="An image of @gitquantumcoder's Holopin badges" width="400"/>
+  <img src="https://holopin.me/gitquantumcoder" alt="An image of @gitquantumcoder's Holopin badges" width="500"/>
 </a>
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Afzalnewcoder123)
