@@ -46,7 +46,7 @@ My Badges->
 
 ## 📈 My GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitquantumcoder&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitquantumcoder&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitquantumcoder&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitquantumcoder&theme=tokyonight)
 
