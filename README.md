@@ -28,7 +28,7 @@
 ### 🌱 Learning & Exploring
 - ⚛️ **Machine Learning Algorithms** & **DeepLearning**
 - 🧠 **AI Agent Orchestration** & reasoning patterns
-- 🔬 **Python** — Automating, analyzing, and exploring code magic
+- 🔬 **Python** — Working with data & loop engineering
 - 📈 **C++** — Powering up my problem-solving skills
 
 
