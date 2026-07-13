@@ -86,7 +86,7 @@ My Badges->
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
 <td>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark&animate=true" width="48" height="48" alt="r" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark&animate=true" width="48" height="48" alt="C++" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark&animate=true" width="48" height="48" alt="bash" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark&animate=true" width="48" height="48" alt="anaconda" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
@@ -99,7 +99,8 @@ My Badges->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="sklearn" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark&animate=true" width="48" height="48" alt="LangChain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,js,langchain,fastapi,docker,git,github,mongodb,mysql,pytorch&theme=dark&animate=true" />
 </td>
 </tr>
 <tr>
