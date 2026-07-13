@@ -100,7 +100,8 @@ My Badges->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="sklearn" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark&animate=true" width="48" height="48" alt="LangChain" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,js,langchain,fastapi,docker,git,github,mongodb,mysql,pytorch&theme=dark&animate=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle&theme=dark&animate=true" width="48" height="48" alt="Kaggle" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=llamaindex&theme=dark&animate=true"width="48"height="48"alt="LlamaIndex" />
 </td>
 </tr>
 <tr>
@@ -122,6 +123,7 @@ My Badges->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka&theme=dark&animate=true" width="48" height="48" alt="kafka" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true"width="48"height="48"alt="MySQL" />
 </td>
 </tr>
 </table>
