@@ -153,5 +153,24 @@ My Badges->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitquantumcoder&theme=github_dark)
 
 ---
+### 🐍 Watch My Contributions Get Eaten
 
-<!-- Let's connect, collaborate, and create something awesome together! -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**_Thanks for visiting — let's build the future of AI, together._**
+
+⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
+
+</div>
