@@ -1,17 +1,37 @@
-# 👋 Hi, I'm Mohd.Afzal aka Gitquantumcoder!
+<div align="center">
+# Mohammad Afzal aka Gitquantumcoder
 
-### 🚀 Student | Aspiring Developer | Tech Explorer
+#### AI/ML Enthusiast · Open Source Contributer · ProblemSolver · Agentic AI 
 
-Welcome to my GitHub universe!  
-I'm currently diving into the world of **web and software development** — learning, experimenting, and having fun every step of the way.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developer+%E2%80%A2+AI+Orchestrator+%E2%80%A2+Problem+Solver;Building+next-Gen+AI+Agents+with+LLMs;Aspiring+AI+Researcher" alt="Typing SVG" /></a>
 
+</div>
 ---
+## 🔭 Currently Building & Learning
 
-## 🛠️ What I'm Learning
-- **HTML** & **CSS** — Building beautiful web pages
-- **JavaScript** — Making things interactive & dynamic
-- **Python** — Automating, analyzing, and exploring code magic
-- **C++** — Powering up my problem-solving skills
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+- 🤖 **Agentic AI workflows** for enterprise automation
+- 🔌 **MCP server architectures** for cloud-native LLM tooling
+- ☁️ **GenAI-RAG Piplene** services & multi-agent RAG pipelines
+- 📦 Open-source **AI/ML Projects**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning & Exploring
+- ⚛️ **Machine Learning Algorithms** & **DeepLearning**
+- 🧠 **AI Agent Orchestration** & reasoning patterns
+- 🔬 **Python** — Automating, analyzing, and exploring code magic
+- 📈 **C++** — Powering up my problem-solving skills
+
+
+</td>
+</tr>
+</table>
 
 ---
 
