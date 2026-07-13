@@ -1,12 +1,13 @@
 <div align="center">
   
-# Mohammad Afzal aka Gitquantumcoder
+# Mohammad Afzal
 
 #### AI/ML Enthusiast · Open Source Contributer · ProblemSolver · Agentic AI
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developer+%E2%80%A2+AI+Orchestrator+%E2%80%A2+Problem+Solver;Building+next-Gen+AI+Agents+with+LLMs;Aspiring+AI+Researcher" alt="Typing SVG" /></a>
 
 </div>
+
 ---
 
 ## 🔭 Currently Building & Learning
