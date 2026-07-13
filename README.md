@@ -153,6 +153,7 @@ My Badges->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitquantumcoder&theme=github_dark)
 
 ---
+
 ### 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
@@ -173,6 +174,7 @@ My Badges->
 </picture>
 
 </div>
+
 ---
 
 <div align="center">
