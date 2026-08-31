@@ -70,7 +70,7 @@ My Badges->
 ## Claude Badge-
 
 <a href="https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d">
-  <img src="./assets/claude-academy-badge.png" alt="Claude Academy - Claude 101" width="400">
+  <img src="./assets/claude-academy-badge.png" alt="Claude Academy - Claude 101" width="200">
 </a>
 
 <div align="center">
