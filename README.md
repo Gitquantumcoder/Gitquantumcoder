@@ -68,8 +68,9 @@ My Badges->
 </a>
 
 ## Claude Academy Badge-
-[![Claude Academy Certified](https://img.shields.io/badge/Claude_Academy-Certified-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d)
-## 🧰 Tech Stack
+<a href="https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d">
+  <img src="./assets/claude-academy-badge.png" alt="Claude Academy - Claude 101" width="400">
+</a>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
