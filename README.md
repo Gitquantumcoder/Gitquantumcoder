@@ -68,8 +68,7 @@ My Badges->
 </a>
 
 ## Claude Academy Badge-
-<img src="https://api.us.badgr.com/public/assertions/YOUR_ASSERTION_ID/image" width="200" alt="Claude Academy Badge">
-
+[![Claude Academy Certified](https://img.shields.io/badge/Claude_Academy-Certified-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d)
 ## 🧰 Tech Stack
 
 <div align="center">
