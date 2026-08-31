@@ -67,6 +67,12 @@ My Badges->
   <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="200" alt="Credly Badge">
 </a>
 
+## Claude Academy Badge-
+
+<a href="https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d">
+  <img src="https://cdn-images-1.medium.com/max/1200/1*aOUZArVhSLGW9oVXfnD6ow.png" width="200" alt="Claude Academy Badge">
+</a>
+
 ## 🧰 Tech Stack
 
 <div align="center">
