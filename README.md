@@ -67,10 +67,7 @@ My Badges->
   <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="200" alt="Credly Badge">
 </a>
 
-## Claude Academy Badge-
-<a href="https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d">
-  <img src="./assets/claude-academy-badge.png" alt="Claude Academy - Claude 101" width="400">
-</a>
+[![Claude Academy - Claude 101 Completion Badge](./assets/claude-academy-badge.png)](https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d)
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
