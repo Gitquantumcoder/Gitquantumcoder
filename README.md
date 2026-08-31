@@ -68,10 +68,7 @@ My Badges->
 </a>
 
 ## Claude Academy Badge-
-
-<a href="https://academy.claude.com/verify/7c90ca30e2e9956cecbc83b73a78952d">
-  <img src="https://cdn-images-1.medium.com/max/1200/1*aOUZArVhSLGW9oVXfnD6ow.png" width="200" alt="Claude Academy Badge">
-</a>
+<img src="https://api.us.badgr.com/public/assertions/YOUR_ASSERTION_ID/image" width="200" alt="Claude Academy Badge">
 
 ## 🧰 Tech Stack
 
